@@ -5,3 +5,4 @@ git tracks changes of files
 creating a new branch is quick and simple
 分支管理策略
 正在Dev工作 已经commit了的---
+正在编写还没有add 突然要在另一个分支工作
